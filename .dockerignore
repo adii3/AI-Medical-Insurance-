@@ -1,0 +1,21 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+test_medical_ai.db
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.coverage
+htmlcov
+exports
+docker_log.txt
+API Runs Requests.json
+raw_dataset.csv
+sanitized_dataset.csv
+Capstone_MVP_Report.pdf
+Capstone_SRS_Revised_Medical_Insurance_Platform.docx
+tests
+Frontend-Capstone

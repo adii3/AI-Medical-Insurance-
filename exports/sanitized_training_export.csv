@@ -1,0 +1,2 @@
+patient_pseudonym,tenant_company,subscription_tier,age,sex,bmi,smoker_status,dependents,recent_hospitalizations,base_risk_score,region,high_risk_proxy
+Patient_7cb4c2a40a,Atlantic Blue,Premium,42,Female,27.6,False,2,1,18.0,Ontario,True
