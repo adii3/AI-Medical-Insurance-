@@ -7,6 +7,7 @@ export default function EmptyState({
   title = "No data available",
   message = "There's nothing to display right now.",
 }: EmptyStateProps) {
+  // front end ui
   return (
     <div className="glass-panel flex min-h-[320px] flex-col items-center justify-center gap-4 rounded-[2rem] p-8 text-center">
       <div className="rounded-full bg-amber-50 px-4 py-2 text-xs font-semibold uppercase tracking-[0.3em] text-amber-700">

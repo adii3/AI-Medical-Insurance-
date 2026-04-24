@@ -45,6 +45,7 @@ export default function AppShell({
     router.replace("/login");
   };
 
+  // Front end UI
   return (
     <div className="min-h-screen bg-[radial-gradient(circle_at_top,_rgba(180,225,255,0.35),_transparent_32%),linear-gradient(180deg,_#f4efe1_0%,_#fbf9f2_48%,_#eef5ff_100%)] text-slate-900">
       <div className="mx-auto flex min-h-screen w-full max-w-7xl flex-col px-4 py-6 sm:px-6 lg:px-8">
